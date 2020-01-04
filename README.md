@@ -2,9 +2,9 @@
 my 2020 to do list - www.firstplato.com
 
 ThemeForest file download :
-- [ ] DONA - Creative Multi-Purpose Parallax WordPress Theme
-- [ ] Soho Pro - Photography Portfolio
-- [ ] Maiden - Responsive One Page Portfolio WordPress Theme
+- [x] DONA - Creative Multi-Purpose Parallax WordPress Theme
+- [x] Soho Pro - Photography Portfolio
+- [x] Maiden - Responsive One Page Portfolio WordPress Theme
 
 Feel free to reach me on : 
 - https://www.firstplato.com
